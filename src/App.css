@@ -40,3 +40,11 @@
 .show-add {
   display: block !important;
 }
+
+.line-through {
+  text-decoration: line-through;
+}
+
+.gray-text {
+  color: #bbb;
+}
